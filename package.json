@@ -1,0 +1,15 @@
+{
+  "name": "my-jest-test",
+  "version": "1.0.0",
+  "description": "my first test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garifullin Ramil",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
